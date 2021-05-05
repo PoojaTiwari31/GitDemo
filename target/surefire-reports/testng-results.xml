@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="109" started-at="2021-05-01T20:09:14 IST" finished-at="2021-05-01T20:09:14 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="109" started-at="2021-05-01T20:09:14 IST" finished-at="2021-05-01T20:09:14 IST">
+      <class name="PoojaAcademy.MavenProject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:PoojaAcademy.MavenProject.SeleniumTest@3e9b1010]" name="BrowserAutomation" duration-ms="1" started-at="2021-05-01T20:09:14 IST" finished-at="2021-05-01T20:09:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementUi()[pri:0, instance:PoojaAcademy.MavenProject.SeleniumTest@3e9b1010]" name="ElementUi" duration-ms="0" started-at="2021-05-01T20:09:14 IST" finished-at="2021-05-01T20:09:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementUi -->
+      </class> <!-- PoojaAcademy.MavenProject.SeleniumTest -->
+      <class name="PoojaAcademy.MavenProject.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:PoojaAcademy.MavenProject.RestAPITest@18eed359]" name="deleteTwitter" duration-ms="0" started-at="2021-05-01T20:09:14 IST" finished-at="2021-05-01T20:09:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJIRA()[pri:0, instance:PoojaAcademy.MavenProject.RestAPITest@18eed359]" name="postJIRA" duration-ms="0" started-at="2021-05-01T20:09:14 IST" finished-at="2021-05-01T20:09:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJIRA -->
+      </class> <!-- PoojaAcademy.MavenProject.RestAPITest -->
+      <class name="PoojaAcademy.MavenProject.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:PoojaAcademy.MavenProject.AppiumTest@3632be31]" name="IOSApps" duration-ms="23" started-at="2021-05-01T20:09:14 IST" finished-at="2021-05-01T20:09:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:PoojaAcademy.MavenProject.AppiumTest@3632be31]" name="nativeAppAndroid" duration-ms="0" started-at="2021-05-01T20:09:14 IST" finished-at="2021-05-01T20:09:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- PoojaAcademy.MavenProject.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
